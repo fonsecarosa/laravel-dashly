@@ -13,8 +13,13 @@
 </head>
 
 <body>
+    
+    <div class="container">
 
-    {{ $slot }}
+            {{ $slot }}
+
+    </div>
+
 
     <!-- JAVASCRIPT-->
     <!-- Theme JS -->
